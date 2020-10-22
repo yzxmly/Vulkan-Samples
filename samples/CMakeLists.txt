@@ -77,7 +77,10 @@ set(ORDER_LIST
     "specialization_constants"
     "command_buffer_usage"
     "multithreading_render_passes"
-    "afbc")
+    "afbc"
+    
+    #AJS Samples
+    "AJS_hello_triangle")
 
 # Orders the sample ids by the order list above
 order_sample_list(
